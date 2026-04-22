@@ -1,1 +1,1 @@
-curl_cffi
+python -m pip install -r requirements.txt
